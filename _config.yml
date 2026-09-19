@@ -1,0 +1,9 @@
+# GitHub Pages: publish the root copy; keep source and local tooling out of the site.
+exclude:
+  - dist
+  - qa
+  - README.md
+  - server.cjs
+  - make-assets.cjs
+  - check.cjs
+  - node_modules
